@@ -1,6 +1,7 @@
 # Deeplearning
 <h1>Contents</h1>
 1. DL101 (basic python)
+
   1. Basics commands
   
   2. simple data type and the operator
