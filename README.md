@@ -1,6 +1,6 @@
 # Deeplearning
 <h1>Contents</h1>
-1. DL101 (basic python)
+1. <h3>DL101 (basic python)</h3>
 
   1. Basics commands
   
