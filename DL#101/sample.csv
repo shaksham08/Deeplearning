@@ -1,2 +1,6 @@
-name,brand ,price ,isandroid
-iphone5s,apple ,789456,no
+name,brand ,price ,isandroid,batterycapacity
+iphone5s,apple ,7894,no,789
+iphone5s,apple ,5655,no,546
+iphone5s,apple ,12345,no,1122
+iphone5s,apple ,7451,no,999
+iphone5s,apple ,1235,no,122
