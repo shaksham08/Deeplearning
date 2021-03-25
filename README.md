@@ -4,6 +4,8 @@
 
   1. Basics of python (simple data type and the operator ,code blocks - if, while ,for ,function ,lists ,Tuples ,sets,dict ,python packages,File handling ,Python classes ,Numpy, Plotting using matplot and seaborn )
   
-  seaborn : https://elitedatascience.com/python-seaborn-tutorial 
+  seaborn : https://elitedatascience.com/python-seaborn-tutorial
+  
+  tt
  
   
